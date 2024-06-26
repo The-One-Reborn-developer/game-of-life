@@ -1,6 +1,6 @@
 # Conway's Game of Life
 
-Simple implementation in Python 3.
+**Simple implementation in Python 3.**
 
 ## How to play
 
